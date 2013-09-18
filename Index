@@ -3,7 +3,7 @@
 		<head>
 			<title> Hello Worlds </title>
 			<meta http-equiv = "Content-Type" content = "text/html;charset=utf-8"  />
-			<link rel="Stylesheet" type="text/css" href ="/css/Style.css"/>
+			<link rel="Stylesheet" type="text/css" href ="style.css"/>
 		</head>
 	
 	<body id="Index" class="Index" >
